@@ -1,2 +1,2 @@
 # virtual-class-api
-Practicing my skills on Java, API's Rest and Spring and learning new stuff. 
+Practicing my skills on Java, Rest APIs and Spring and learning new stuff. 
